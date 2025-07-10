@@ -18,4 +18,4 @@ This game is fast and exciting. It will test your focus and quick reflexes. Coll
 <img width="200" alt="5_2" src="https://github.com/user-attachments/assets/d101a1e9-ba72-409d-b40a-5cdcfec28aac" />
 
 ## Video:
-https://drive.google.com/drive/folders/18B3t3Xh0AJ9pEuNjyFIhdE4hJU_CikE0?usp=sharing
+https://drive.google.com/file/d/144n_keH50_1nT6r72FTqfVcQiCLQZMy2/view?usp=drive_link
