@@ -9,14 +9,12 @@ Luckily, you can activate a special speed boost that lets you fly through danger
 This game is fast and exciting. It will test your focus and quick reflexes. Collect enough energy before your station runs out of power — and see how far you can go in the endless beauty of space!
 
 ## Images:
-
-![Uploading S<img width="200" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-11 at 00 17 50" src="https://github.com/user-attachments/assets/75141536-0f5f-48e3-9ada-ed68745b525b" />
-imulator Screenshot - iPhone 15 Pro - 2025-07-11 at 00.17.47.png…]()
-<img width="200" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-11 at 00 17 47" src="https://github.com/user-attachments/assets/05b5e7a0-4e55-42f7-be6e-33bb2bbc31fd" />
-<img width="200" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-11 at 00 33 01" src="https://github.com/user-attachments/assets/9a6ccbb7-8289-4004-bd48-e8623886eae1" />
-<img width="200" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-11 at 00 19 28" src="https://github.com/user-attachments/assets/9bc87e32-0d40-45b5-80ae-91e6c528b086" />
-<img width="200" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-11 at 00 19 11" src="https://github.com/user-attachments/assets/37d8f637-6447-469d-a670-749fce5833d4" />
-<img width="200" alt="Simulator Screenshot - iPhone 15 Pro - 2025-07-11 at 00 17 58" src="https://github.com/user-attachments/assets/e1d2dac3-7632-44f1-8222-80e26653e705" />
+<img width="200" alt="1" src="https://github.com/user-attachments/assets/85a24fd9-7d73-4b83-a960-b7307ad79e31" />
+<img width="200" alt="2" src="https://github.com/user-attachments/assets/fa4f0f38-ef1a-4fc2-8e49-72cd42362ba4" />
+<img width="200" alt="3" src="https://github.com/user-attachments/assets/ca2fe96f-4e01-49ac-95dd-b2a542c5b98f" />
+<img width="200" alt="4" src="https://github.com/user-attachments/assets/2f24c164-f7ef-4535-867b-3a4c1e9c47e5" />
+<img width="200" alt="5_1" src="https://github.com/user-attachments/assets/027a4b6f-5557-4df3-a681-5aba25954bd4" />
+<img width="200" alt="5_2" src="https://github.com/user-attachments/assets/d101a1e9-ba72-409d-b40a-5cdcfec28aac" />
 
 ## Video:
 https://drive.google.com/drive/folders/18B3t3Xh0AJ9pEuNjyFIhdE4hJU_CikE0?usp=sharing
